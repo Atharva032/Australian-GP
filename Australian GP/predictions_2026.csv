@@ -1,0 +1,13 @@
+year,driver,team,grid_position,quali_position,champ_pos_before,team_pos_before,aus_hist_avg_pos,aus_hist_races,is_season_opener,dnf,finish_position,podium,team_tier,driver_enc,podium_prob,pred_rank
+2026,George Russell,Mercedes,2,2,0,0,2.5,4,1,0,1,1,1,8,0.9656551,1
+2026,Lewis Hamilton,Ferrari,1,1,0,0,1.0,10,1,0,4,0,1,16,0.5797232,2
+2026,Kimi Antonelli,Mercedes,3,3,0,0,0.0,1,1,0,2,1,1,12,0.33656618,3
+2026,Charles Leclerc,Ferrari,4,4,0,0,1.4,5,1,0,3,1,1,2,0.30201453,4
+2026,Lando Norris,McLaren,6,6,0,0,2.25,4,1,0,6,0,1,15,0.020705184,5
+2026,Oscar Piastri,McLaren,7,7,0,0,3.333333333333333,3,1,0,7,0,1,22,0.018313952,6
+2026,Yuki Tsunoda,Red Bull,9,9,0,0,7.0,1,1,0,9,0,1,28,0.01727665,7
+2026,Isack Hadjar,RB,12,12,0,0,0.0,1,1,0,12,0,3,9,0.012788744,8
+2026,Max Verstappen,Red Bull,5,5,0,0,0.3333333333333333,9,1,0,5,0,1,17,0.01053321,9
+2026,Fernando Alonso,Aston Martin,10,10,0,0,1.0,7,1,0,10,0,2,7,0.008428948,10
+2026,Carlos Sainz,Williams,8,8,0,0,0.8571428571428571,7,1,0,8,0,2,1,0.006531503,11
+2026,Lance Stroll,Aston Martin,11,11,0,0,3.2,5,1,0,11,0,2,14,0.00568581,12
